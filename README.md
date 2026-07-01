@@ -1,0 +1,2 @@
+# AI-POWERED-FRAUD-DETECTION-PLATFORM-USING-RAG-BY-ANTONY-SELVAMUTHU
+An AI-Powered Fraud Detection Platform using Retrieval-Augmented Generation (RAG) is an intelligent system that detects fraudulent transactions by combining machine learning with contextual knowledge retrieval. It analyzes transaction data, user behavior, and historical fraud patterns in real time to identify suspicious activities. 
